@@ -2,7 +2,7 @@
 
 1. Install global dependencies
 	```
-	gem install jekyll && npm install -g bower
+	gem install jekyll && npm install -g grunt-cli
 	```
 
 2. Install project dependencies
